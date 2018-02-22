@@ -19,6 +19,7 @@ public class Item {
 	@NotEmpty
 	private String etiqueta;
 
+
 	@NotEmpty
 	private String descricao;
 
